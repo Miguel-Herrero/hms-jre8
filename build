@@ -1,0 +1,1 @@
+docker build -t rawmind/hms-jre8:$(cat version) .
